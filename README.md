@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Learning Security](https://tryhackme.com/dashboard)
 
+- 💼 I'm currently working at [Gelpass-Group](https://www.gelpassgroup.com/en/home/) for a 4 month internship
+
 - 🌱 I’m currently learning **Powershell, Networking**
 
 - 🤝 I’m looking for help **on learning Cyber-security**
